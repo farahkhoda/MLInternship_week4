@@ -1,0 +1,19 @@
+# Python & Virtual Environment
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/settings.json
+
+# OS
+.DS_Store
+
+# Project-specific
+*.log
