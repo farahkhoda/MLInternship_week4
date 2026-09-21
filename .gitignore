@@ -1,19 +1,62 @@
-# Python & Virtual Environment
+Python & Virtual Environment
+
 .venv/
-__pycache__/
-*.pyc
+venv/
+env/
+ENV/
+
+pycache/
+*.py[cod]
 *.pyo
+*.pyd
 .Python
 
-# Jupyter
+Jupyter
+
 .ipynb_checkpoints/
 
-# IDE
+IDE
+
 .idea/
-.vscode/settings.json
+.vscode/
+*.swp
+*.swo
 
-# OS
+macOS / OS
+
 .DS_Store
+.AppleDouble
+.LSOverride
 
-# Project-specific
+Python packaging / build
+
+build/
+dist/
+*.egg-info/
+.eggs/
+
+Testing / Coverage
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+Logs
+
 *.log
+
+Environment / Secrets
+
+.env
+.env.*
+!.env.example
+
+Project-specific temporary files
+
+*.tmp
+*.bak
+EOF
+“””
+# YCB-Video dataset
+test/
+*.zip
