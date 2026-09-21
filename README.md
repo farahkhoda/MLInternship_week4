@@ -1,6 +1,6 @@
 MLInternship_week4
 
-Evaluate the Classical Classifier — Week 4 Internship Project at Darnica
+Evaluate the Classical Classifier — Week 4 Internship Project
 
 ⸻
 
